@@ -1,0 +1,48 @@
+Learning Python Day One
+
+https://www.youtube.com/watch?v=3J02sec99RM&feature=emb_logo
+
+https://github.com/pyenv/pyenv
+
+pyenv
+manage multiple work envs with different envs with customized verions
+
+anaconda
+is more for data science
+
+from video
+
+#python web dev
+
+Flask
+requests
+Jinja2
+MarkupSafe
+SQLAlchemy - first
+
+notes
+
+Source
+https://www.youtube.com/watch?v=OT5qJBINiJY
+
+VIRTUAL ENV
+https://virtualenv.pypa.io/en/stable/
+
+https://docs.sqlalchemy.org/en/13/
+
+https://www.youtube.com/watch?v=DIPZoZheMTo
+
+Rest Apis
+Jando - more opinionated than 
+Flask
+
+https://www.youtube.com/watch?v=PTZiDnuC86g
+
+pipenv install flask flask-sqlalchemy flask-marshmallow marshmallow-sqlalchemy
+
+
+
+
+
+
+
